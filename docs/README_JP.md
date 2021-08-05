@@ -1,4 +1,4 @@
-Language [EN](README.md) | [PR](README_PR.md) | [JP]
+Language [EN](README.md) | [PR](README_PR.md) | JP  
 
 [](
   HeaderImage
