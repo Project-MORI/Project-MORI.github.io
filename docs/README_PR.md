@@ -1,4 +1,4 @@
-Language EN | [PR](README_PR.md) | [JP](README_JP.md)
+Language [EN](README.md) | [PR] | [JP](README_JP.md)
 
 [](
   HeaderImage
@@ -19,5 +19,4 @@ Brazilian Institute of Environment and Renewable Natural Resources (IBAMA)
 The Brazilian Legal Amazon (states of Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins, and part of Maranhão)
 
 ---
-
 [![GitHub](images/gh.png)](https://github.com/Project-MORI)  [![Facebook](images/fb.png)](#)  [![Twitter](images/tw.png)](#)  [![Instagram](images/is.png)](#)
