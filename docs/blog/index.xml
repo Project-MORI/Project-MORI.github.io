@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project MORI</title>
-    <link>https://project-mori.github.io/</link>
-    <description>Recent content on Project MORI</description>
+    <title>Blogs on Project MORI</title>
+    <link>https://project-mori.github.io/blog/</link>
+    <description>Recent content in Blogs on Project MORI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
-    <lastBuildDate>Fri, 12 Nov 2021 15:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 15:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Field verification survey has been conducted.</title>
       <link>https://project-mori.github.io/blog/2021-10-20/</link>
@@ -33,15 +33,6 @@
       
       <guid>https://project-mori.github.io/blog/2021-07-21/</guid>
       <description>The Project kick-off meeting has been held on 21st Jul 2021 at IBAMA. hoge hoge hoge see the link below プロジェクトウェブサイト</description>
-    </item>
-    
-    <item>
-      <title>Hiroaki Okonogi</title>
-      <link>https://project-mori.github.io/author/hiroaki-okonogi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://project-mori.github.io/author/hiroaki-okonogi/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.</description>
     </item>
     
   </channel>
