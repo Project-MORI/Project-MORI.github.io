@@ -1,0 +1,20 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Background Situations
+  about_item :
+  - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    title : Deforestation in Amazon
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-eye # themify icon pack : https://themify.me/themify-icons
+    title : Difficulties of Optical Remote sensing
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-signal # themify icon pack : https://themify.me/themify-icons
+    title : Need for preventive measures
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    title : Improving the efficiency of enforcement activities
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.

@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : Project MORI
+  content : "Project for improving control of illegal deforestation through advanced SAR and AI technologies in the Brazilian Amazon"
+  feature_item :
+      # feature item loop
+    - title : Implementing Agency
+      icon : ti-flag-alt-2 # themify icon pack : https://themify.me/themify-icons
+      content : Brazilian Institute of Environment and Renewable Natural Resources (IBAMA)
+
+      # feature item loop
+    - title : Duration
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
+      content : Jul.21 2021 - Jul.20 2026 (5 years)
+
+      # feature item loop
+    - title : Cooperative Agency
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Japan Aerospace Exploration Agency, National Institute of Advanced Industrial Science and Technology, and Japan International Cooperation Agency
+
+      # feature item loop
+    - title : Target Area
+      icon : ti-target # themify icon pack : https://themify.me/themify-icons
+      content : The Brazilian Legal Amazon (states of Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins, and part of Maranhão)

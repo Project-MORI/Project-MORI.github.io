@@ -1,0 +1,33 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Project Progress
+  subtitle : As of XX
+  content1 : The project is progressing in line with the Project Design Matrix (PDM) of Record of Discussions (RD) signed between JICA and IBAMA.
+  # content2 : Duration -- Jul.21 2021 - Jul.20 2026 (5 years)
+  # content3 : Implementing Agency -- Brazilian Institute of Environment and Renewable Natural Resources (IBAMA)
+  # content4 : Target Area -- The Brazilian Legal Amazon (states of Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins, and part of Maranhão)
+  # image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Project Purpose
+      percent : 0%
+
+    # skill item loop
+    - name :  Output 1
+      percent : 0%
+
+    # skill item loop
+    - name :  Output 2
+      percent : 0%
+
+    # skill item loop
+    - name :  Output 3
+      percent : 0%
+
+    - name :  Output 4
+      percent : 0%
+
+    # # skill item loop
+    # - name :  Android Development
+    #   percent : 75%

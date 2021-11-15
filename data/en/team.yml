@@ -1,0 +1,84 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : IBAMA
+      # image_webp : images/team/team-1.webp
+      image : images/team/ibama.png
+      designation : Brazilian Institute of Environment and Renewable Natural Resources
+      content : is the Brazilian Ministry of the Environment's administrative arm. IBAMA supports anti-deforestation of the Amazon, and implements laws against deforestation where the government ceases to implement. IBAMA works to keep the forest from loggers, farming, agricultural farm grazing and anything that would threaten the Amazon.
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.gov.br/ibama/pt-br"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/mmaibama/"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/ibamagov/?hl=pt-br"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/company/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renov-veis---ibama"
+
+    # team member loop
+    - name : JICA
+      # image_webp : images/team/team-2.webp
+      image : images/team/jica.png
+      designation : Japan International Cooperation Agency
+      content : is a governmental agency that delivers the bulk of Official Development Assistance (ODA) for the government of Japan. It is chartered with assisting economic and social growth in developing countries, and the promotion of international cooperation.
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.jica.go.jp/english/index.html"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/jicapreng"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/jica_direct_en"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://jp.linkedin.com/company/japan-international-cooperation-agency-jica-"
+
+    # team member loop
+    - name : JAXA
+      # image_webp : images/team/team-3.webp
+      image : images/team/jaxa.png
+      designation : Japan Aerospace Exploration Agency
+      content : is the Japanese national aerospace and space agency. JAXA is responsible for research, technology development and launch of satellites into orbit, and is involved in many more advanced missions such as asteroid exploration and possible human exploration of the Moon.
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://global.jaxa.jp/"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/jaxa.en"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/JAXA_en"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+
+    # team member loop
+    - name : AIST
+      # image_webp : images/team/team-4.webp
+      image : images/team/aist.png
+      designation : National Institute of Advanced Industrial Science and Technology
+      content : focuses on the creation and practical realization of technologies useful to Japanese industry and society, and on “bridging” the gap between innovative technological seeds and commercialization.
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.aist.go.jp/index_en.html"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/AIST_JP"
+        - icon : ti-twitter # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/AIResearchAIST"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://jp.linkedin.com/company/aist"
+
+    # team member loop
+    - name : JJ-FAST
+      # image_webp : images/team/team-4.webp
+      image : images/team/jjfast.png
+      designation : JICA-JAXA Forest Early Warning System in the Tropics
+      content : is a web-based system using JAXA’s ALOS-2 to monitor tropical forests in 77 countries every 1.5 months and release deforestation data, even in the rainy season.
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.eorc.jaxa.jp/jjfast/jj_index.html"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/jica.jj.fast/"
+        # - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
