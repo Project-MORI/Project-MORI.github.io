@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project MORI</title>
+    <link>https://project-mori.github.io/jp/</link>
+    <description>Recent content on Project MORI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-ja</language>
+    <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
+    <lastBuildDate>Fri, 12 Nov 2021 15:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Field verification survey has been conducted.</title>
+      <link>https://project-mori.github.io/jp/blog/2021-10-20/</link>
+      <pubDate>Fri, 12 Nov 2021 15:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/blog/2021-10-20/</guid>
+      <description>&lt;p&gt;2021年10月下旬に森林伐採の現地調査をロンドニア州にて実施しました。これは、JICAとJAXAが開発したJJ-FASTによる森林伐採の検出結果を確認するもので、&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The project activity was introduced on The Asahi Shimbun</title>
+      <link>https://project-mori.github.io/jp/blog/2021-11-08/</link>
+      <pubDate>Fri, 12 Nov 2021 15:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/blog/2021-11-08/</guid>
+      <description>&lt;p&gt;朝日新聞にプロジェクトの記事が掲載されました。これは、先日ロンドニア州への現地調査に同行した記者が報じたものです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Project started !!</title>
+      <link>https://project-mori.github.io/jp/blog/2021-07-21/</link>
+      <pubDate>Fri, 12 Nov 2021 15:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/blog/2021-07-21/</guid>
+      <description>&lt;p&gt;2021年7月21日、IBAMAにてプロジェクトのキックオフミーティングを開催しました。この会議では、プロジェクトの目的、活動内容を再確認し、細かい修正点について合意しました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cristina Masae Matayoshi</title>
+      <link>https://project-mori.github.io/jp/author/cristinamasae-matayoshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/author/cristinamasae-matayoshi/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.</description>
+    </item>
+    
+    <item>
+      <title>Daniel Moraes de Freitas</title>
+      <link>https://project-mori.github.io/jp/author/daniel-moraesdefreitas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/author/daniel-moraesdefreitas/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.</description>
+    </item>
+    
+    <item>
+      <title>David Cho</title>
+      <link>https://project-mori.github.io/jp/author/david-cho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/author/david-cho/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.</description>
+    </item>
+    
+    <item>
+      <title>Hiroaki Okonogi</title>
+      <link>https://project-mori.github.io/jp/author/hiroaki-okonogi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/author/hiroaki-okonogi/</guid>
+      <description>リモートセンシング／業務調整専門家</description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Antônio de Souza</title>
+      <link>https://project-mori.github.io/jp/author/rodrigo-antoniodesouza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/author/rodrigo-antoniodesouza/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.</description>
+    </item>
+    
+  </channel>
+</rss>
