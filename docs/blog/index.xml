@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
-    <lastBuildDate>Wed, 30 Mar 2022 10:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Sep 2022 10:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop for Python learning has been conducted</title>
+      <link>https://project-mori.github.io/blog/2022-09-02/</link>
+      <pubDate>Fri, 02 Sep 2022 10:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/blog/2022-09-02/</guid>
+      <description>&lt;p&gt;A workshop on deep learning and remote sensing in Python was held from August 22 to 26, 2022. Project-MORI plans to use Python and/or other programming languages that can be used for deep learning for deforestation detection and prediction.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>The second field study has been conducted</title>
       <link>https://project-mori.github.io/blog/2022-03-30/</link>
