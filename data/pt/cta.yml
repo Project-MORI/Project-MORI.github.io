@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Para combater o desmatamento ilegal na Floresta Amazônica...."
+  content : "O governo brasileiro, juntamente com mais de 100 países, assinou o acordo de zerar ou reduzir o desmatamento até 2030 no “Pacto Climático de Glasgow” da COP26. Para cumprir essa meta, o projeto contribuirá por meio de tecnologias avançadas para aprimorar o controle da extração ilegal de madeira."
+  button:
+    enable : true
+    label : "See project update"
+    link : "#blog"

@@ -1,0 +1,20 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Background Situations
+  about_item :
+  - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    title : Deforestation in Legal Amazon
+    content : Deforestation in Legal Amazon amounted to over 13 thousand square kilometers in 2020 (Aug. 2020 - Jul. 2021, INPE 2021). According to the FAO, the averaged annual deforestation area between 2010 and 2020 is the highest in the world (FRA 2020).
+
+  - icon : ti-eye # themify icon pack : https://themify.me/themify-icons
+    title : Difficulties of Optical Remote sensing
+    content : Brazilian government has functions to monitor forest changes by satellite and control illegal deforestation. However, it is difficult to observe the forest situations using optical satellites due to heavy clouds in the area.
+
+  - icon : ti-signal # themify icon pack : https://themify.me/themify-icons
+    title : Need for preventive measures
+    content : When deforestation is observed by satellite and enforcement officers arrive at the site, the forest has already been lost. Therefore, preventive measures are required to avoid deforestation.
+
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    title : Improving the efficiency of enforcement activities
+    content : With only a limited number of enforcement officers in the vast Legal Amazon, there is a need to utilize a variety of information to improve the efficiency of enforcement activities.

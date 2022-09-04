@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Project
+  service_item :
+    # service item loop
+    - name : 上位目標
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : アマゾン地域森林の保全活動が改善される。
+
+    # service item loop
+    - name : プロジェクト目標
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : ブラジル法定アマゾンにおける森林伐採の検知及び予測を通じた違法伐採に係る対策・管理能力が強化される。
+
+    # service item loop
+    - name : 成果1
+      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+      content : 違法伐採対策・取り締まりに関する提言が関係機関間で共有される。
+
+    # service item loop
+    - name : 成果2
+      icon : ti-pin # themify icon pack : https://themify.me/themify-icons
+      content : リモートセンシング及び空間情報のデータベースを活用した違法森林伐採取り締まり優先地域を特定する基準が作られる。
+
+    # service item loop
+    - name : 成果3
+      icon : ti-signal # themify icon pack : https://themify.me/themify-icons
+      content : AIを活用した改良森林伐採予測システムが運用される。
+
+    # service item loop
+    - name : 成果4
+      icon : ti-reload # themify icon pack : https://themify.me/themify-icons
+      content : IBAMA内及びIBAMAと森林伐採データに関わる関係機関間との情報共有体制強化を通じて、森林伐採管理及び取り締まりの効率が改善する。

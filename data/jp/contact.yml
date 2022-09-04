@@ -1,0 +1,30 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : お問い合わせ
+  subtitle : 本プロジェクトに関するお問い合わせについて
+  content : 本プロジェクトについての問い合わせはフォームよりお願いいたします。
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "SCEN Trecho 2, Edificio Sede, L4 Norte, Brasília/DF, 70818-900, Brazil"
+
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: 非公開"
+
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      info : "Fax: 非公開"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: 非公開"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/xpzkvwvq" #contact form works with https://formspree.io
+    name : "お名前"
+    email : "メールアドレス"
+    subject : "題名"
+    message : "内容"
+    submit : "送信"

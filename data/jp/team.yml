@@ -1,0 +1,84 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : IBAMA
+      # image_webp : images/team/team-1.webp
+      image : images/team/ibama.png
+      designation : ブラジル環境・再生可能天然資源院
+      content : IBAMAは、ブラジル環境省の1機関です、アマゾンの森林破壊防止に取り組んでいます。IBAMAは、伐採、農業、農地での放牧など、アマゾンを脅かすあらゆるものから森林を守るために活動しています。
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.gov.br/ibama/pt-br"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/mmaibama/"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/ibamagov/?hl=pt-br"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/company/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renov-veis---ibama"
+
+    # team member loop
+    - name : JICA
+      # image_webp : images/team/team-2.webp
+      image : images/team/jica.png
+      designation : 独立行政法人国際協力機構
+      content : JICAは政府開発援助（ODA）の実施機関の一つであり、開発途上地域等の経済及び社会の発展に寄与し、国際協力の促進に資することを目的としています。
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.jica.go.jp/index.html"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/jicapr"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/jica_direct"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://jp.linkedin.com/company/japan-international-cooperation-agency-jica-"
+
+    # team member loop
+    - name : JAXA
+      # image_webp : images/team/team-3.webp
+      image : images/team/jaxa.png
+      designation : 国立研究開発法人宇宙航空研究開発機構
+      content : JAXAは、日本の宇宙航空研究開発機関です。JAXAは、研究、技術開発、人工衛星の軌道上への打ち上げなどを担い、さらには小惑星探査や有人月面探査など、より高度なミッションにも携わっています。
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.jaxa.jp/"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/jaxa.jp"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/JAXA_jp"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+
+    # team member loop
+    - name : AIST
+      # image_webp : images/team/team-4.webp
+      image : images/team/aist.png
+      designation : 国立研究開発法人産業技術総合研究所
+      content : 産業技術総合研究所は、日本の産業や社会に役立つ技術の創造と実用化を目指し、革新的な技術シーズとその実用化の橋渡しをすることに重点を置いています。
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.aist.go.jp/"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/AIST_JP"
+        - icon : ti-twitter # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/AIResearchAIST"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://jp.linkedin.com/company/aist"
+
+    # team member loop
+    - name : JJ-FAST
+      # image_webp : images/team/team-4.webp
+      image : images/team/jjfast.png
+      designation : JICA-JAXA熱帯林早期警戒システム
+      content : JJ-FASTは、JAXAのALOS-2を利用し、77カ国の熱帯林を1.5カ月ごとに観測し、雨季でも森林伐採データを公開するWebシステムです。
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.eorc.jaxa.jp/jjfast/jj_index.html"
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/jica.jj.fast/"
+        # - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"

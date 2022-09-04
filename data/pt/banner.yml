@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  # bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Como reduzir o desmatamento ilegal na Floresta Amazônica?"
+  content : "Projeto para o Aperfeiçoamento do Controle de Desmatamento Ilegal por meio de Tecnologias Avançadas SAR e AI na Amazônia Brasileira"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#feature"

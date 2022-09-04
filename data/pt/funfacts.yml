@@ -1,0 +1,25 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    # counter item loop
+    - title : "desmatamento detectado"
+      icon : "ti-pin" # themify icon pack : https://themify.me/themify-icons
+      count : "0"
+
+    # counter item loop
+    - title : "área detectada (km2)"
+      icon : "ti-cut" # themify icon pack : https://themify.me/themify-icons
+      count : "0"
+
+    # counter item loop
+    - title : "previsão de desmatamento"
+      icon : "ti-signal" # themify icon pack : https://themify.me/themify-icons
+      count : "0"
+
+    # counter item loop
+    - title : "área prevista (km2)"
+      icon : "ti-flag-alt" # themify icon pack : https://themify.me/themify-icons
+      count : "0"

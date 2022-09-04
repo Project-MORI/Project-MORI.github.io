@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "To stop illegal deforestation in Amazon"
+  content : "Along with over 100 countries, the Brazilian government has also pledged to end or reduce deforestation by 2030 on The Glasgow Leaders' Declaration at COP26. To achieve the pledge, our project will contribute to the improvement of controlling illegal deforestations through the use of advanced technology."
+  button:
+    enable : true
+    label : "See project update"
+    link : "#blog"

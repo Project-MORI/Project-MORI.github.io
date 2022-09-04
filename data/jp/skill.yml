@@ -1,0 +1,33 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : プロジェクトの進捗
+  subtitle : 2022年7月時点
+  content1 : JICAとIBAMAの間で締結された協議議事録（RD）のプロジェクトデザインマトリックス（PDM）に沿ってプロジェクトは進行しています。進捗状況は半期毎のプロジェクト進捗モニタリングに基づき更新される予定です。
+  # content2 : Duration -- Jul.21 2021 - Jul.20 2026 (5 years)
+  # content3 : Implementing Agency -- Brazilian Institute of Environment and Renewable Natural Resources (IBAMA)
+  # content4 : Target Area -- The Brazilian Legal Amazon (states of Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins, and part of Maranhão)
+  # image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  プロジェクト目標
+      percent : 10%
+
+    # skill item loop
+    - name :  成果1
+      percent : 5%
+
+    # skill item loop
+    - name :  成果2
+      percent : 5%
+
+    # skill item loop
+    - name :  成果3
+      percent : 8%
+
+    - name :  成果4
+      percent : 5%
+
+    # # skill item loop
+    # - name :  Android Development
+    #   percent : 75%

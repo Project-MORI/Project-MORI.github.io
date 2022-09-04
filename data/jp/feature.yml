@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : Project MORI
+  content : "先進的レーダー衛星及びAI技術を用いたブラジルアマゾンにおける違法森林伐採管理改善プロジェクト"
+  feature_item :
+      # feature item loop
+    - title : 実施機関
+      icon : ti-flag-alt-2 # themify icon pack : https://themify.me/themify-icons
+      content : ブラジル環境・再生可能天然資源院 (IBAMA)
+
+      # feature item loop
+    - title : 実施期間
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
+      content : 2021年7月21日〜2026年7月20日 (5年間)
+
+      # feature item loop
+    - title : 日本側協力機関
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : 国立研究開発法人宇宙航空研究開発機構 (JAXA)、国立研究開発法人産業技術総合研究所 (AIST)、独立行政法人国際協力機構 (JICA)
+
+      # feature item loop
+    - title : 対象地
+      icon : ti-target # themify icon pack : https://themify.me/themify-icons
+      content : 法定アマゾン (アクレ州、アマパ州、アマゾナス州、マットグロッソ州、パラ州、ロンドニア州、ロライマ州、トカンティンス州およびマラニョン州の一部)

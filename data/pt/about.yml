@@ -1,0 +1,20 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Background Situations
+  about_item :
+  - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    title : Desmatamento in Legal Amazon
+    content : O desmatamento da Amazônia Legal, em 2020 (agosto de 2020 a julho de 2021), chegou a mais de 13 mil quilômetros quadrados (INPE 2021). De acordo com a FAO, a área média de desmatamento anual entre o ano 2010 a 2020 foi a mais alta no mundo (FRA 2020).
+
+  - icon : ti-eye # themify icon pack : https://themify.me/themify-icons
+    title : A dificuldade de detecção por sensores ópticos de satélite
+    content : O governo brasileiro tem o sistema de monitoramento das mudanças florestais por meio de satélites e o de combate a práticas ilegais de degradação da floresta. No entanto, é difícil observar o estado da floresta somente com os sensores ópticos a bordo de satélites, pois seu maior obstáculo são as nuvens.
+
+  - icon : ti-signal # themify icon pack : https://themify.me/themify-icons
+    title : A necessidade de medida preventiva
+    content : Quando o desmatamento é identificado por satélite e os agentes do IBAMA chegam ao local, a floresta já está perdida. Portanto, a medida preventiva é necessária para evitar o desmatamento ilegal.
+
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    title : Aprimorar as atividades de fiscalização
+    content : Na vasta Amazônia Legal, o número de agentes de fiscalização do IBAMA é limitado. Há necessidade de que as informações sejam utilizadas e compartilhadas de forma eficaz nas atividades de fiscalização.

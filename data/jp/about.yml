@@ -1,0 +1,20 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Background Situations
+  about_item :
+  - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    title : アマゾンの森林減少
+    content : 法定アマゾンの森林減少は2020年（2020年8月～2021年7月）には13,000平方キロメートル以上に達しています（INPE 2021)。FAOによると、2010年から2020年までの年間平均森林減少面積は世界一です（FRA 2020）。
+
+  - icon : ti-eye # themify icon pack : https://themify.me/themify-icons
+    title : 光学衛星による検知の困難さ
+    content : ブラジル政府は、衛星を使って森林の変化を監視し、違法な森林伐採を抑制する機能を有しています。しかし、光学衛星による観測のみでは、雲が多いため、森林の状況を把握することが困難です。
+
+  - icon : ti-signal # themify icon pack : https://themify.me/themify-icons
+    title : 予防措置の必要性
+    content : 衛星で森林伐採が観測され、IBAMAの取締官が現地に到着した時には、すでに森林は失われています。そのため、森林伐採を回避するための予防策が必要です。
+
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    title : 取締活動の効率化
+    content : 広大な法定アマゾンにおいて、IBAMAの取締官の数は限られており、取締活動の効率化のために様々な情報を活用、共有が求められています。

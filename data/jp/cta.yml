@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "アマゾンの違法伐採を止めるために…"
+  content : "ブラジル政府は世界100カ国以上とともに、COP26の「グラスゴー首脳宣言」において、2030年までに森林破壊を止める、または削減することを約束しています。この公約を達成するために、本プロジェクトは、先進的な技術の活用により、違法伐採の抑制の改善に貢献します。"
+  button:
+    enable : true
+    label : "See project update"
+    link : "#blog"
