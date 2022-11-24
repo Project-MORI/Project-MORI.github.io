@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-ja</language>
     <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 10:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/jp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Sep 2022 10:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アマゾンの伐採現場においてレーダ（SAR）衛星データの検証と機械学習（AI）のためのデータ収集を行いました</title>
+      <link>https://project-mori.github.io/jp/blog/2022-09-24/</link>
+      <pubDate>Sat, 24 Sep 2022 10:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/blog/2022-09-24/</guid>
+      <description>&lt;p&gt;9月19日からRondonia州で現地調査を実施しました．&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>第1回JCCを開催しました</title>
+      <link>https://project-mori.github.io/jp/blog/2022-09-19/</link>
+      <pubDate>Mon, 19 Sep 2022 10:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/blog/2022-09-19/</guid>
+      <description>&lt;p&gt;9月15日、IBAMA総裁、日本大使館公使、JICA事務所次長、環境省、国際協力庁、IBAMA関係部局出席のもと、第1回JCCを開催しました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>レーダ（SAR）衛星データ解析と機械学習（AI）のワークショップを実施しました</title>
+      <link>https://project-mori.github.io/jp/blog/2022-09-13/</link>
+      <pubDate>Tue, 13 Sep 2022 10:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/blog/2022-09-13/</guid>
+      <description>&lt;p&gt;9月12日～16日にかけ、JAXAとAISTによるレーダ（SAR）衛星データ解析と機械学習（AI）のカウンターパート研修を実施しました。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Pythonのワークショップを実施しました</title>
       <link>https://project-mori.github.io/jp/blog/2022-09-02/</link>
