@@ -2,7 +2,7 @@
 skill:
   enable : true
   title : Project Progress
-  subtitle : As of Jul. 2022
+  subtitle : As of Jan. 2023
   content1 : The project is progressing in line with the Project Design Matrix (PDM) of Record of Discussions (RD) signed between JICA and IBAMA. Data will be updated based on semi-annual project progress monitoring.
   # content2 : Duration -- Jul.21 2021 - Jul.20 2026 (5 years)
   # content3 : Implementing Agency -- Brazilian Institute of Environment and Renewable Natural Resources (IBAMA)
@@ -11,22 +11,22 @@ skill:
   skill_item :
     # skill item loop
     - name :  Project Purpose
-      percent : 10%
+      percent : 20%
 
     # skill item loop
     - name :  Output 1
-      percent : 5%
+      percent : 10%
 
     # skill item loop
     - name :  Output 2
-      percent : 5%
+      percent : 20%
 
     # skill item loop
     - name :  Output 3
-      percent : 8%
+      percent : 23%
 
     - name :  Output 4
-      percent : 5%
+      percent : 10%
 
     # # skill item loop
     # - name :  Android Development

@@ -2,7 +2,7 @@
 skill:
   enable : true
   title : Andamento do Projeto
-  subtitle : Até em JUL 2022
+  subtitle : Até em JAN 2023
   content1 : O projeto segue com os acordos, Project Design Matrix (PDM) e Record of Discussion (RD) assinados entre JICA e IBAMA. O progresso será atualizado com base no monitoramento semestral do progresso do projeto.
 
   # content1 : O projeto segue com os acordos: Project Design Matrix (PDM) e Record of Discussion (RD) assinados entre JICA e IBAMA. O progresso será atualizado com base no monitoramento semestral do progresso do projeto.
@@ -13,22 +13,22 @@ skill:
   skill_item :
     # skill item loop
     - name :  Project Purpose
-      percent : 10%
+      percent : 20%
 
     # skill item loop
     - name :  Output 1
-      percent : 5%
+      percent : 10%
 
     # skill item loop
     - name :  Output 2
-      percent : 5%
+      percent : 20%
 
     # skill item loop
     - name :  Output 3
-      percent : 8%
+      percent : 23%
 
     - name :  Output 4
-      percent : 5%
+      percent : 10%
 
     # # skill item loop
     # - name :  Android Development

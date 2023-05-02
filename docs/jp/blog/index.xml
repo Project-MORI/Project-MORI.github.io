@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-ja</language>
     <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 10:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/jp/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Apr 2023 10:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/jp/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>機械学習（AI）のワークショップを実施しました</title>
+      <link>https://project-mori.github.io/jp/blog/2023-04-28/</link>
+      <pubDate>Fri, 28 Apr 2023 10:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/blog/2023-04-28/</guid>
+      <description>&lt;p&gt;4月24日〜28日にかけ，産業技術総合研究所（AIST）の短期専門家がブラジルに渡航し，機械学習（AI）の現地研修を実施しました．&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>アマゾンの伐採現場においてレーダ（SAR）衛星データの検証と機械学習（AI）のためのデータ収集を行いました</title>
       <link>https://project-mori.github.io/jp/blog/2022-09-24/</link>
