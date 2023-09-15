@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://project-mori.github.io/pt/blog/</loc>
-    <lastmod>2023-04-28T10:17:02+09:00</lastmod>
+    <lastmod>2023-09-12T10:17:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,6 +18,78 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://project-mori.github.io/pt/blog/"
+                />
+  </url><url>
+    <loc>https://project-mori.github.io/pt/blog/2023-09-12/</loc>
+    <lastmod>2023-09-12T10:17:02+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://project-mori.github.io/blog/2023-09-12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://project-mori.github.io/jp/blog/2023-09-12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://project-mori.github.io/pt/blog/2023-09-12/"
+                />
+  </url><url>
+    <loc>https://project-mori.github.io/pt/</loc>
+    <lastmod>2023-09-12T10:17:02+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://project-mori.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://project-mori.github.io/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://project-mori.github.io/pt/"
+                />
+  </url><url>
+    <loc>https://project-mori.github.io/pt/blog/2023-08-25/</loc>
+    <lastmod>2023-08-25T10:17:02+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://project-mori.github.io/blog/2023-08-25/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://project-mori.github.io/jp/blog/2023-08-25/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://project-mori.github.io/pt/blog/2023-08-25/"
+                />
+  </url><url>
+    <loc>https://project-mori.github.io/pt/blog/2023-06-05/</loc>
+    <lastmod>2023-06-05T10:17:02+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://project-mori.github.io/blog/2023-06-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://project-mori.github.io/jp/blog/2023-06-05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://project-mori.github.io/pt/blog/2023-06-05/"
                 />
   </url><url>
     <loc>https://project-mori.github.io/pt/blog/2023-04-28/</loc>
@@ -36,24 +108,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://project-mori.github.io/pt/blog/2023-04-28/"
-                />
-  </url><url>
-    <loc>https://project-mori.github.io/pt/</loc>
-    <lastmod>2023-04-28T10:17:02+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://project-mori.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://project-mori.github.io/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://project-mori.github.io/pt/"
                 />
   </url><url>
     <loc>https://project-mori.github.io/pt/blog/2022-09-24/</loc>

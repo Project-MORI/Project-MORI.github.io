@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-ja</language>
     <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
-    <lastBuildDate>Fri, 28 Apr 2023 10:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/jp/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Sep 2023 10:17:02 +0900</lastBuildDate><atom:link href="https://project-mori.github.io/jp/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIのプログラミング技術習得のための本邦研修を実施しました</title>
+      <link>https://project-mori.github.io/jp/blog/2023-09-12/</link>
+      <pubDate>Tue, 12 Sep 2023 10:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/blog/2023-09-12/</guid>
+      <description>&lt;p&gt;プロジェクトでは森林伐採を予測するシステムを構築するため，機械学習や深層学習といったAI技術を活用しています．&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ドローンの操縦研修を実施しました</title>
+      <link>https://project-mori.github.io/jp/blog/2023-08-25/</link>
+      <pubDate>Fri, 25 Aug 2023 10:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/blog/2023-08-25/</guid>
+      <description>&lt;p&gt;Ibamaには違法伐採取締のためすでに100機以上のドローンが配備されています．&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Acre州と周辺地域での現地調査を実施しました</title>
+      <link>https://project-mori.github.io/jp/blog/2023-06-05/</link>
+      <pubDate>Mon, 05 Jun 2023 10:17:02 +0900</pubDate>
+      
+      <guid>https://project-mori.github.io/jp/blog/2023-06-05/</guid>
+      <description>5月25日から6月1日までAcre州Rio Brancoを拠点として現地調査を実施しました．実際の調査は，Rondonia州，Amazonas州の3州に渡るものになりました． 今回の調査の目的は，プロジェクトで使用しているJJ-FASTの新しいアルゴリズムが4月に大幅更新されたことに伴う現地調査でした． IBAMAにヘリコプターを飛ばしてもらい上空から，また車両で地上からの調査を行いました． 新しいアルゴリズムでは森林伐採をより早い段階で検出できる可能性が上がり，早期の取締に有用である可能性が上がりました．他方で，湿地を誤検出したり，検出できない伐採パターンがあることも明らかになったことから，今後，さらなる改善が必要と考えられました．</description>
+    </item>
+    
     <item>
       <title>機械学習（AI）のワークショップを実施しました</title>
       <link>https://project-mori.github.io/jp/blog/2023-04-28/</link>
