@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://project-mori.github.io/blog/2023-10-22/</loc>
+    <lastmod>2023-10-22T10:17:02+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://project-mori.github.io/pt/blog/2023-10-22/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://project-mori.github.io/jp/blog/2023-10-22/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://project-mori.github.io/blog/2023-10-22/"
+                />
+  </url><url>
     <loc>https://project-mori.github.io/blog/</loc>
-    <lastmod>2023-09-12T10:17:02+09:00</lastmod>
+    <lastmod>2023-10-22T10:17:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -21,7 +39,7 @@
                 />
   </url><url>
     <loc>https://project-mori.github.io/</loc>
-    <lastmod>2023-09-12T10:17:02+09:00</lastmod>
+    <lastmod>2023-10-22T10:17:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
